@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim Iskif
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in backend development
 - 🌱 I’m currently doing a bachelor in Computer Science
 - 📫 To reach me  : https://www.linkedin.com/in/ibrahim-iskif-599570190/ 
 
