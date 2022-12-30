@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ibrahim-iskif-599570190/**
 
-- ⚡ Fun fact **I hate python**
+- ⚡ Fun fact **I hate c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
