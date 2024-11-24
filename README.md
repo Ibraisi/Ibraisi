@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Iskif</h1>
-<h3 align="center">A passionate student and future software engineer</h3>
+<h3 align="center">A Software Developer</h3>
 
-- 🔭 I’m currently working on **finishing my bachelors degree**
+- 🔭 I’m currently working as a python developer**
 
 - 🌱 I’m currently learning **Springboot and react**
 
