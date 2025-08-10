@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Iskif</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🔭 I’m currently working as a python developer**
+- 🔭 I’m currently working as a deveops engineer
 
-- 🌱 I’m currently learning **Springboot and react**
-
-- 💬 Ask me about **java and springboot**
+- 🌱 I’m currently learning **golang & AWS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ibrahim-iskif-599570190/**
+
 
 
 <h3 align="left">Connect with me:</h3>
