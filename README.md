@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Iskif</h1>
-<h3 align="center">A Software Developer</h3>
 
 - 🔭 I’m currently working as a deveops engineer
 
